@@ -1,0 +1,79 @@
+@media (max-width: 576px) {
+    .fs-2 {
+        font-size: calc(1.2rem + 0.9vw) !important;
+    }
+    .m-2 {
+        margin: 0.2rem !important;
+    }
+    .fs-3 {
+        font-size: calc(1rem + 0.6vw) !important;
+    }
+    .fs-4 {
+        font-size: calc(0.8rem + 0.3vw) !important;
+    }
+    .fs-5 {
+        font-size: 0.9rem !important;
+    }
+    .fs_18 {
+        font-size: 12px !important;
+        text-align: center;
+    }
+    .main_title_header {
+        font-size: 28px !important;
+        text-align: center;
+        margin: 30px 0 !important;
+    }
+    .header-info {
+        font-size: 1rem !important;
+        text-align: center;
+    }
+    #header_input_area {
+        margin: 0 !important;
+    }
+    #free_consultation_btn {
+        width: 70%;
+        margin: 15px 0 !important;
+    }
+    .gap-2 {
+        gap: 2px !important;
+    }
+    .wallet_icon ,
+    .hot_ofer_icon ,
+    .trends_icon ,
+    .top_creators_icon {
+        width: 50px !important;
+        height: 50px !important;
+    }
+    .ETH_icon {
+        width: 15px;height: auto;
+    }
+    .sevice_box {
+        margin: 50px 0 !important;
+    }
+    .nft_card_title {
+        /*font-size: ;*/
+    }
+    .wallet_title ,
+    .hot_ofer_title ,
+    .see_more ,
+    .trends_title ,
+    .top_creators_title {
+        font-size: 1rem !important;
+    }
+    .arrow_icon {
+        width: 12% !important;
+    }
+    .btm_model_2 {
+        font-size: 18px !important;
+        padding: 10px 20px !important;
+    }
+    .creator_id {
+        font-size: 15px;
+    }
+    .score_star img {
+        width: 15px !important;
+    }
+    .creator_solde ,.creator_solde_score  {
+        font-size: 10px !important;
+    }
+}
