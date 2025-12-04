@@ -3,7 +3,7 @@
 1 open project on <cmd> or terminal or open demo on a IDE
 
 2 enter this command to install swiper.js
-   npm install
+npm install
 
 3 now you can open index.html file on project root
 
