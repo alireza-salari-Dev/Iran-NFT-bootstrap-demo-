@@ -1,4 +1,8 @@
 هشدار: این نمونه به node.js نیتز دارد پس پیش از استفاده از این نمونه node.js را روی سیستم خود نصب کنید
+
+Warning: This example requires node.js, so install node.js on your system before using this example.
+
+
 لطفا پس از دانلود این نمونه مراحل زیر را به دقت انجام دهید تا نمونه بدون مشکل روی سیستم سما اجرا شود
 
 
