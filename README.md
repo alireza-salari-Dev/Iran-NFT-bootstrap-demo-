@@ -1,4 +1,4 @@
-هشدار: این نمونه به node.js نیتز دارد پس پیش از استفاده از این نمونه node.js را روی سیستم خود نصب کنید
+هشدار: این نمونه به node.js نیاز دارد پس پیش از استفاده از این نمونه node.js را روی سیستم خود نصب کنید
 
 Warning: This example requires node.js, so install node.js on your system before using this example.
 
